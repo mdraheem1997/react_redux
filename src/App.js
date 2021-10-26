@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>This is react redux</h1>
+      <h1>This is React Redux</h1>
     </div>
   );
 }
